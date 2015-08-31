@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Modern Art UI</string>
+    <string name="hello_world">Hello world!</string>
+
+    <color name="ltop">#313BD6</color>
+    <color name="lbottom">#F23DA8</color>
+    <color name="rtop">#442862</color>
+    <color name="rmid">#FFFFFF</color>
+    <color name="rbottom">#7D2869</color>
+
+</resources>
